@@ -1,0 +1,15 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(27,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(32,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(37,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(42,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(47,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(52,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(57,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(249,27): warning C4473: "fprintf": передано недостаточно аргументов для строки формата
+  C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(249,27):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 10, но было предоставлено 8
+  C:\Users\masya\source\repos\ConsoleApplication13\ConsoleApplication13\ConsoleApplication13.cpp(249,27):
+  отсутствующий вариативный аргумент "9" требуется для строки форматирования "%s"
+  
+  ConsoleApplication13.vcxproj -> C:\Users\masya\source\repos\ConsoleApplication13\x64\Debug\ConsoleApplication13.exe
